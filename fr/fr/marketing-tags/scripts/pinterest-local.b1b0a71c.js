@@ -1,0 +1,1 @@
+(function(){"use strict";if(/@|%40/.test(document.location.href))return!1;window._pinLocal=function(n,t){location.search.match(/utm_source=pinterest/i)&&t?.site_level_1!="p"&&n.send("PageVisit"),window._pinLocal=null},window.dispatchEvent(new CustomEvent("_pinLocalLoaded"))})();

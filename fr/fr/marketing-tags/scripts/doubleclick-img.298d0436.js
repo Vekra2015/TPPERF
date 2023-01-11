@@ -1,0 +1,1 @@
+(function(){"use strict";if(/@|%40/.test(document.location.href))return!1;let t=String(Math.random())*1e13;new Image().src="https://pubads.g.doubleclick.net/activity;xsp=4787303;ord="+t+"?",new Image().src="https://pubads.g.doubleclick.net/activity;xsp=4620421;ord=1?"})();
